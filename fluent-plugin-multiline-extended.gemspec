@@ -1,8 +1,4 @@
 # -*- encoding: utf-8 -*-
-# WTF?
-# Goddammit
-# Extra-fucking dammit.
-# Extra godammit.
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
